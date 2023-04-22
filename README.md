@@ -1,7 +1,7 @@
 # Hi there, I'm Emerson :wave:
 <hr>
-<img align="left" width="50" src="https://github-readme-stats.vercel.app/api?username=efzr&show_icons=true&theme=tokyonight"/>
-<img align="left" width="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efzr&langs_count=8"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=efzr&show_icons=true&theme=tokyonight"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efzr&langs_count=8"/>
 <br><br>
 
 ## Programming Languages
