@@ -1,6 +1,6 @@
 # Hi there, I'm Emerson :wave:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=efzr&show_icons=true&theme=tokyonight"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efzr" />
 
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
