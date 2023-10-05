@@ -3,6 +3,8 @@
 I'm a Junior full Stack developer from Honduras 🇭🇳, I'm currently working on my college practices, learning new technologies and ways to improve my skills.
 One of the things I like the most is to learn new things and share my knowledge with others, I'm always open to new opportunities and challenges.
 
+![Honduras](assets/hondurasflag.svg)
+
 ## 📫 How to reach me
 
 [![Github](assets/github.svg)](https://github.com/EFZR)
@@ -39,7 +41,7 @@ This are some of the technologies I have used and most liked to work with.
 
 I'm always learning new things and trying to improve my skills, so this list a list of some of my future technologies I want to learn and use.
 
-![Raspberry Pi](https://img.shields.io/badge/-raspberrypi-A22846?logo=raspberrypi&logoColor=white&style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=flat-square)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat-square)
 ![Bun](https://img.shields.io/badge/-Bun-000000?logo=Bun&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=414141&style=flat-square)
