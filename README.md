@@ -7,6 +7,7 @@ One of the things I like the most is to learn new things and share my knowledge 
 
 [![Github](https://img.shields.io/badge/-Github-181717?logo=GitHub&logoColor=white&style=flat-square)](https://github.com/EFZR)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=flat-square)](mailto:emerson.zapatarivas@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/emerson.zapatarivas/)
 
 ## 🛠️ Technologies & Tools
 
