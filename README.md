@@ -52,4 +52,4 @@ I'm always learning new things and trying to improve my skills, so this list a l
 
 |||
 |-|-|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=efzr&show_icons=true&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=efzr) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=efzr&show_icons=true) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=efzr) |
