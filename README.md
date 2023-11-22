@@ -10,6 +10,7 @@ One of the things I like the most is to learn new things and share my knowledge 
 [![Github](assets/github.svg)](https://github.com/EFZR)
 [![Gmail](assets/gmail.svg)](mailto:emerson.zapatarivas@gmail.com)
 [![Instagram](assets/instagram.svg)](https://www.instagram.com/emerson.zapatarivas/)
+[![Linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/emerson-zapata-1b5485232/)
 
 ## 🛠️ Technologies & Tools
 
