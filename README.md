@@ -1,12 +1,12 @@
 # 👋 Hi There, I'm Emerson Zapata 🚀
 
-I'm a Junior full Stack developer from Honduras 🇭🇳, I'm currently working on my college practices, learning new technologies and ways to improve my skills.
-One of the things I like the most is to learn new things and share my knowledge with others, I'm always open to new opportunities and challenges.
+Hi my name is Emerson Fernando Zapata Rivas, I'm from Honduras and I'm a Junior Full Stack Developer, I'm currently making my professional Practice to get graduate from college (UNICAH) and because of that I'm searching for an opportunity to enhance my skills and knowledge in the area of software development. I'm a self-taught person, I like to learn new things and I'm always looking for new challenges to improve my skills. To know more about me you can check my profile below and have a look to my repositories. Please check my **[portfolio](https://helpful-kitten-b5ae2a.netlify.app/)** and feel free to contact me if you have any question or want to work with me.
 
 ![Honduras](assets/hondurasflag.svg)
 
 ## 📫 How to reach me
 
+[![Portfolio](assets/website.svg)](https://helpful-kitten-b5ae2a.netlify.app/)
 [![Github](assets/github.svg)](https://github.com/EFZR)
 [![Gmail](assets/gmail.svg)](mailto:emerson.zapatarivas@gmail.com)
 [![Instagram](assets/instagram.svg)](https://www.instagram.com/emerson.zapatarivas/)
