@@ -53,3 +53,7 @@ I'm always learning new things and trying to improve my skills, so this list a l
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square)
 ![Nvim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat-square)
+
+## 📈 Github Stats
+
+![stats](https://streak-stats.demolab.com/?user=efzr&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)
