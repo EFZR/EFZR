@@ -1,6 +1,6 @@
 # 👋 Hi There, I'm Emerson Zapata 🚀
 
-Hi my name is Emerson Fernando Zapata Rivas, I'm from Honduras and I'm a Junior Full Stack Developer, I'm currently making my professional Practice to get graduate from college (UNICAH) and because of that I'm searching for an opportunity to enhance my skills and knowledge in the area of software development. I'm a self-taught person, I like to learn new things and I'm always looking for new challenges to improve my skills. To know more about me you can check my profile below and have a look to my repositories. Please check my **[portfolio](https://helpful-kitten-b5ae2a.netlify.app/)** and feel free to contact me if you have any question or want to work with me.
+Hi my name is Emerson Fernando Zapata Rivas from Honduras, and I am a passionate developer graduate with a Computer Science degree with the enthusiasm to keep learning more about technology. I am a self-taught developer with a strong background in web development and a passion for learning new technologies. I am always looking for new challenges and opportunities to grow as a developer. Please feel free to check out my [portfolio](https://helpful-kitten-b5ae2a.netlify.app/) and reach out to me if you have any questions or opportunities.
 
 ![Honduras](assets/hondurasflag.svg)
 
@@ -9,7 +9,6 @@ Hi my name is Emerson Fernando Zapata Rivas, I'm from Honduras and I'm a Junior 
 [![Portfolio](assets/website.svg)](https://helpful-kitten-b5ae2a.netlify.app/)
 [![Github](assets/github.svg)](https://github.com/EFZR)
 [![Gmail](assets/gmail.svg)](mailto:emerson.zapatarivas@gmail.com)
-[![Instagram](assets/instagram.svg)](https://www.instagram.com/emerson.zapatarivas/)
 [![Linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/emerson-zapata-1b5485232/)
 
 ## 🛠️ Technologies & Tools
@@ -28,6 +27,7 @@ This are some of the technologies I have used and most liked to work with.
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20css-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=414141&style=flat-square)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=414141&style=flat-square)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=Vite&logoColor=white&style=flat-square)
@@ -48,9 +48,8 @@ This are some of the technologies I have used and most liked to work with.
 
 I'm always learning new things and trying to improve my skills, so this list a list of some of my future technologies I want to learn and use.
 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=flat-square)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat-square)
-![Bun](https://img.shields.io/badge/-Bun-000000?logo=Bun&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=414141&style=flat-square)
+![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=NixOS&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square)
+![Nvim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat-square)
