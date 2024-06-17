@@ -56,4 +56,4 @@ I'm always learning new things and trying to improve my skills, so this list a l
 
 ## 📈 Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=efzr&theme=transparent&card_width=1200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=efzr&theme=transparent&card_width=900)](https://git.io/streak-stats)
