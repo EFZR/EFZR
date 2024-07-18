@@ -18,7 +18,7 @@ This are some of the technologies I have used and most liked to work with.
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=white&style=flat-square)
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=414141&style=flat-square)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+![.Net](https://img.shields.io/badge/-Dotnet-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
@@ -30,7 +30,6 @@ This are some of the technologies I have used and most liked to work with.
 ![Github](https://img.shields.io/badge/-Github-181717?logo=GitHub&logoColor=white&style=flat-square)
 <!-- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=flat-square) -->
 <!-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white&style=flat-square) -->
-<!-- ![.Net](https://img.shields.io/badge/-dotnet-512BD4?logo=dotnet&logoColor=white&style=flat-square) -->
 <!-- ![Axum](https://img.shields.io/badge/-Axum-000000?logo=Axum&logoColor=white&style=flat-square) -->
 <!-- ![Tailwind](https://img.shields.io/badge/-Tailwind%20css-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) -->
 <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square) -->
