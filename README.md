@@ -56,5 +56,5 @@ I'm always learning new things and trying to improve my skills, so this list a l
 
 ## 📈 Github Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=efzr&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=efzr&theme=transparent&card_width=900)
 ![GitHub Streak](https://github-profile-trophy.vercel.app/?username=efzr)
