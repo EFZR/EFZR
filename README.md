@@ -42,16 +42,16 @@ This are some of the technologies I have used and most liked to work with.
 <!-- ![Sqlite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square) -->
 <!-- ![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white&style=flat-square) -->
 <!-- ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white&style=flat-square) -->
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=414141&style=flat-square)
+![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=NixOS&logoColor=white&style=flat-square)
+![Nvim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat-square)
 
 ## 💻 Future Technologies
 
 I'm always learning new things and trying to improve my skills, so this list a list of some of my future technologies I want to learn and use.
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=414141&style=flat-square)
-![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=NixOS&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square)
-![Nvim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat-square)
 
 ## 📈 Github Stats
 
