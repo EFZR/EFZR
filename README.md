@@ -28,6 +28,9 @@ This are some of the technologies I have used and most liked to work with.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat-square)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=GitHub&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=414141&style=flat-square)
+![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=NixOS&logoColor=white&style=flat-square)
+![Nvim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat-square)
 <!-- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=flat-square) -->
 <!-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white&style=flat-square) -->
 <!-- ![Axum](https://img.shields.io/badge/-Axum-000000?logo=Axum&logoColor=white&style=flat-square) -->
@@ -42,9 +45,6 @@ This are some of the technologies I have used and most liked to work with.
 <!-- ![Sqlite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square) -->
 <!-- ![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white&style=flat-square) -->
 <!-- ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white&style=flat-square) -->
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=414141&style=flat-square)
-![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=NixOS&logoColor=white&style=flat-square)
-![Nvim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat-square)
 
 ## 💻 Future Technologies
 
