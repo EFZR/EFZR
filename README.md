@@ -16,12 +16,11 @@ Hi my name is Emerson Fernando Zapata Rivas from Honduras, and I am a passionate
 This are some of the technologies I have used and most liked to work with.
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=white&style=flat-square)
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=414141&style=flat-square)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![CSharp](https://img.shields.io/badge/-CSharp-57A143?logo=c#&logoColor=white&style=flat-square)
 ![.Net](https://img.shields.io/badge/-Dotnet-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![MySql](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
@@ -31,13 +30,13 @@ This are some of the technologies I have used and most liked to work with.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=414141&style=flat-square)
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=NixOS&logoColor=white&style=flat-square)
 ![Nvim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=414141&style=flat-square) 
 <!-- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=flat-square) -->
 <!-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white&style=flat-square) -->
 <!-- ![Axum](https://img.shields.io/badge/-Axum-000000?logo=Axum&logoColor=white&style=flat-square) -->
 <!-- ![Tailwind](https://img.shields.io/badge/-Tailwind%20css-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) -->
 <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square) -->
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) -->
-<!-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=414141&style=flat-square) -->
 <!-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=Vite&logoColor=white&style=flat-square) -->
 <!-- ![Remix](https://img.shields.io/badge/-Remix-000000?logo=Remix&logoColor=white&style=flat-square) -->
 <!-- ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=414141&style=flat-square) -->
@@ -56,4 +55,8 @@ I'm always learning new things and trying to improve my skills, so this list a l
 ## 📈 Github Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=efzr&theme=transparent&card_width=900)
-![GitHub Streak](https://github-profile-trophy.vercel.app/?username=efzr&theme=onedark)
+--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=efzr&hide=contribs,prs&theme=tokyonight&card_width=900)
+--
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=efzr&theme=onedark)
+--
