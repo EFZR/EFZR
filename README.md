@@ -17,14 +17,14 @@ This are some of the technologies I have used and most liked to work with.
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=white&style=flat-square)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![CSharp](https://img.shields.io/badge/-CSharp-57A143?logo=c#&logoColor=white&style=flat-square)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![.Net](https://img.shields.io/badge/-Dotnet-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![MySql](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat-square)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=GitHub&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=414141&style=flat-square)
@@ -35,12 +35,9 @@ This are some of the technologies I have used and most liked to work with.
 <!-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white&style=flat-square) -->
 <!-- ![Axum](https://img.shields.io/badge/-Axum-000000?logo=Axum&logoColor=white&style=flat-square) -->
 <!-- ![Tailwind](https://img.shields.io/badge/-Tailwind%20css-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) -->
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square) -->
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) -->
 <!-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=Vite&logoColor=white&style=flat-square) -->
-<!-- ![Remix](https://img.shields.io/badge/-Remix-000000?logo=Remix&logoColor=white&style=flat-square) -->
 <!-- ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=414141&style=flat-square) -->
-<!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=414141&style=flat-square) -->
 <!-- ![Sqlite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square) -->
 <!-- ![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white&style=flat-square) -->
 <!-- ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white&style=flat-square) -->
