@@ -50,11 +50,3 @@ I'm always learning new things and trying to improve my skills, so this list a l
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 
-## 📈 Github Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=efzr&theme=transparent&card_width=900)
---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=efzr&hide=contribs,prs&theme=tokyonight&card_width=900)
---
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=efzr&theme=onedark)
---
