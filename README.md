@@ -30,7 +30,9 @@ This are some of the technologies I have used and most liked to work with.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=414141&style=flat-square)
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=NixOS&logoColor=white&style=flat-square)
 ![Nvim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=414141&style=flat-square) 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=414141&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square)
 <!-- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=flat-square) -->
 <!-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white&style=flat-square) -->
 <!-- ![Axum](https://img.shields.io/badge/-Axum-000000?logo=Axum&logoColor=white&style=flat-square) -->
@@ -46,7 +48,6 @@ This are some of the technologies I have used and most liked to work with.
 
 I'm always learning new things and trying to improve my skills, so this list a list of some of my future technologies I want to learn and use.
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
-
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-%23660099.svg?logo=hivemq&logoColor=white)
